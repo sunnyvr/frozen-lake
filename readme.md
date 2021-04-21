@@ -2,7 +2,13 @@
  
 If you have pipenv installed, we've provided a pipfile.
 
-Requires Python 3.8.
- - It may run on Python 3.7, but has not been tested.
+Implemented
+- Policy iteration
+- Frozen lake environment
+- Value iteration
+- Sarsa control
+- Q-learning
+- Sara control + linear function approximation
+- Q-learning control + linear function approximation
 
 Otherwise, be sure to install numpy via `pip install numpy`.
